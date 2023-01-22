@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tayfun
-- 👀 I’m interested in Mobile Application Development with Swift & Flutter.
+- 👀 I’m interested in Mobile Application Development with Swift & SwiftUI & Flutter.
 - 📫 How to reach me tayfunsagdc@gmail.com
 
 
