@@ -3,7 +3,7 @@
 - 📫 How to reach me tayfunsagdc@gmail.com
 
 
-  <img src="https://img.icons8.com/color/48/000000/swiftui.png"/>   <img src="https://img.icons8.com/color/48/null/swift.png"/>  <img src="https://img.icons8.com/color/48/000000/xcode.png"/>    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>   <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>   <img src="https://img.icons8.com/color/48/000000/dart.png"/>    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>    <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>    <img src="https://img.icons8.com/nolan/48/android-os.png"/>   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+ <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>   <img src="https://img.icons8.com/color/48/000000/swiftui.png"/>   <img src="https://img.icons8.com/color/48/null/swift.png"/>  <img src="https://img.icons8.com/color/48/000000/xcode.png"/>    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>   <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>       <img src="https://img.icons8.com/color/48/000000/firebase.png"/>      <img src="https://img.icons8.com/nolan/48/android-os.png"/>  <img src="https://img.icons8.com/color/48/000000/dart.png"/>  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 
   
   
